@@ -1,2 +1,3 @@
 ﻿fichier que je veux récupérer
-je le modifie
+je le modifie	
+je sens qu'on va etre en conflit
